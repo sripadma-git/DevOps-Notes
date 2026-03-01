@@ -1,4 +1,4 @@
-🚀 DevOps Notes Repository – Complete Zero to Advanced Guide
+## 🚀 DevOps Notes Repository – Complete Zero to Advanced Guide
 
 This repository contains structured learning notes, cheat sheets, practical labs, real-world scenarios, and production-level references covering the complete DevOps ecosystem.
 
